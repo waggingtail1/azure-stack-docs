@@ -30,6 +30,13 @@ Altaro VM Backup is an award-winning VM backup and replication solution for Hype
  
 To learn how you can back up VMs running on Azure Stack HCI with ease, check out the [Solution Brief](https://www.altaro.com/azurestackhci).
 
+:::image type="content" source="./media/utility-applications/druva_logo.png" alt-text="Druva company logo" border="false":::
+
+Druva Data Resiliency Cloud is the only at-scale SaaS platform designed for your multi-cloud world. With a unified console, you can easily manage all your data resiliency service across physical and virtual on-premises workloads, cloud-native and SaaS applications, and critical IT endpoints. See why over 4000+ customers have love us.
+
+- Application listing: [Druva Platform Overview](https://www.druva.com/products/platform-overview)
+- Application support: [Druva Support for Azure Stack HCI](https://docs.druva.com/Phoenix/030_Configure_Phoenix_for_Backup/020_Backup_and_Restore_Hyper-V_Virtual_Machines/010_Introduction_to_Phoenix_for_Hyper-V/010_About_Phoenix_for_Hyper-V)
+
 :::image type="content" source="./media/utility-applications/veeam-logo.png" alt-text="Veeam company logo" border="false":::
 
 Veeam Backup & Replication is the one solution for simple, reliable, and flexible protection of all your cloud, virtual, and physical workloads. Take the stress out of managing your data protection, ransomware prevention, and compliance challenges.
@@ -38,7 +45,7 @@ Veeam Backup & Replication is the one solution for simple, reliable, and flexibl
 - Application support: [Veeam Support for Azure Stack HCI](https://www.veeam.com/kb4047)
 - [Replication support for Hyper-V VMs](https://www.veeam.com/vm-advanced-replication.html?ad=in-text-link)
 
-To get modern data protection for your Azure Stack HCI deployment, check out the [Solution Brief](https://vee.am/azurestackhciwp).
+To get modern data protection for your Azure Stack HCI deployment, check out the [Solution Brief](https://vee.am/azurestackhciwp)
 
 :::image type="content" source="./media/utility-applications/commvault-logo.png" alt-text="Commvault company logo" border="false":::
 
